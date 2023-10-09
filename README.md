@@ -13,4 +13,9 @@ heroLevel.js:
     ❖ Função sobeNivel():
         Retorna ao usuário uma frase indicando o nome do herói selecionado, a quantidade de XP e o elo atual do mesmo.
 
+heroRank.js:
+    ❖ Função rankCalculator():
+        Usa o número de vitórias e derrotas de um herói para determinar seu Score.
+    ❖ Função getRankPosition():
+        Determina o nível do herói utilizando com referência o seu Score de vitórias.
 
